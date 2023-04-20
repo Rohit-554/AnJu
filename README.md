@@ -83,12 +83,13 @@ The project has been successful in achieving its objectives.
 <img src = https://user-images.githubusercontent.com/48874687/232320981-6b31fe16-b3a3-4781-8a15-b3267672f06b.jpg  width = "200" height = "400">
 </p>
 <br>
-<h3> Consumer App (Support dark Mode too)</h3>
+<h3> Consumer App (Extended with dark Mode)</h3>
  <p align = "left">
 <img src = https://user-images.githubusercontent.com/48874687/232321000-2f358b9b-ab92-4840-90ef-9ca47d676d05.jpg  width = "200" height = "400">
 <img src = https://user-images.githubusercontent.com/48874687/232323265-98fe986d-fda4-41f5-8536-e3e9eba03089.jpg  width = "200" height = "400">
 <img src = https://user-images.githubusercontent.com/48874687/232323275-6b90e755-11a4-4fa9-8f83-f6e3f1f5cf2d.jpg  width = "200" height = "400">
-
+<img src = https://user-images.githubusercontent.com/48874687/233404906-25b9f40c-7197-489d-97f7-635f1a1ed120.png  width = "200" height = "400">
+<img src = https://user-images.githubusercontent.com/48874687/233404963-e1b7f505-0c24-4ccb-ba70-c6b2c4a941eb.png  width = "200" height = "400">
 </p>
 
 
